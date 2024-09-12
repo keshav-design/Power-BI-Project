@@ -1,6 +1,6 @@
 Car Sales Dashboard Project
 
-overview :- Welcome to the Car Sales Dashboard project! This repository provides a comprehensive overview of how i built a dynamic and interactive dashboard using Power BI to track and analyze our car dealership's sales performance. my goal is to equip  team with a powerful tool to monitor sales metrics, pricing trends, and other critical data points, helping to make informed business decisions and drive growth.
+overview :- This Project gives  a comprehensive overview of how i built a dynamic and interactive dashboard using Power BI to track and analyze our car dealership's sales performance. my goal is to equip  team with a powerful tool to monitor sales metrics, pricing trends, and other critical data points, helping to make informed business decisions and drive growth.
 
 
 Objective :- The primary objective of this project was to develop a Car Sales Dashboard in Power BI that enables us to:
